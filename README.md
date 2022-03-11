@@ -1,0 +1,2 @@
+# SCCMxPython
+Scripts para integração 
